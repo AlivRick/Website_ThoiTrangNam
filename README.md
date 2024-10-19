@@ -50,43 +50,54 @@ Once both backend and frontend are running, navigate to `http://localhost:5000` 
 
 - **Homepage:**
 
-  ![Homepage](uploads/1.png)
+  ![Homepage](https://github.com/user-attachments/assets/e73a4569-3044-437c-9658-3d5f821e9664)
+
 
 - **Product Page:**
 
-  ![Product Page](uploads/2.png)
+  ![Product Page]
+  (https://github.com/user-attachments/assets/e0a9551f-845c-47a5-8a0e-89a69ae65041)
+  (https://github.com/user-attachments/assets/1b217846-515c-43cf-ae83-f82bae28bc3c)
+
 
 - **Cart Page:**
 
-  ![Cart Page](uploads/3.png)
+  ![Cart Page](https://github.com/user-attachments/assets/3b7c23a7-dd8e-440f-acdf-73096fe2c432)
+
 
 - **Checkout Page:**
 
-  ![Checkout Page](uploads/4.png)
+  ![Checkout Page](https://github.com/user-attachments/assets/894c9892-e3c9-426a-b4b4-c3a4ca3bed00)
+
 
 - **Payment Integration (VNPay/PayPal):**
 
-  ![Payment](uploads/5.png)
+  ![Payment](https://github.com/user-attachments/assets/cb939284-19ff-47a9-9a71-e188babfdd47)
 
-- **Email Confirmation:**
 
-  ![Email Confirmation](uploads/6.png)
+- **Email:**
 
-- **Admin Dashboard:**
+  ![Email]
+  (https://github.com/user-attachments/assets/968ec09b-f159-4b74-bbaf-0f18a1a6ed20)
+  ![Change your password after confirming your email](https://github.com/user-attachments/assets/380138c2-e0d5-47fd-975c-e2b64d03ed5c)
 
-  ![Admin Dashboard](uploads/7.png)
+
+
+- **Admin:**
+
+  ![Admin Dashboard]!(https://github.com/user-attachments/assets/8b7c9b2f-d773-4320-8a04-f1da3f517d8a)
 
 - **Order Management:**
 
-  ![Order Management](uploads/8.png)
+  ![Order Management](https://github.com/user-attachments/assets/2f7d5982-2b50-48ea-b5f7-8ef00b7a66d6)
+
 
 --- 
 
 ## Credits
 
-- **[Your Name]** - Fullstack Developer
-- **[Team Member 1]** - Frontend Developer
-- **[Team Member 2]** - Backend Developer
+- **[Hoàng Châu Phúc Thuận]** - Fullstack Developer
+- **[Trần Hoài Nam]** - Fullstack Developer
 
 ---
 
