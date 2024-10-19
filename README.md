@@ -55,8 +55,9 @@ Once both backend and frontend are running, navigate to `http://localhost:5000` 
 
 - **Product Page:**
 
-  ![Product Page1]
-  (https://github.com/user-attachments/assets/e0a9551f-845c-47a5-8a0e-89a69ae65041)
+  ![Product Page1](https://github.com/user-attachments/assets/e0a9551f-845c-47a5-8a0e-89a69ae65041)
+  ![Product Page2](https://github.com/user-attachments/assets/a3f2c914-c209-407c-b042-f537c0c2d37d)
+
 
 
 - **Cart Page:**
