@@ -77,15 +77,14 @@ Once both backend and frontend are running, navigate to `http://localhost:5000` 
 
 - **Email:**
 
-  ![Email]
-  (https://github.com/user-attachments/assets/968ec09b-f159-4b74-bbaf-0f18a1a6ed20)
+  ![Email](https://github.com/user-attachments/assets/968ec09b-f159-4b74-bbaf-0f18a1a6ed20)
   ![Change your password after confirming your email](https://github.com/user-attachments/assets/380138c2-e0d5-47fd-975c-e2b64d03ed5c)
 
 
 
 - **Admin:**
 
-  ![Admin Dashboard]!(https://github.com/user-attachments/assets/8b7c9b2f-d773-4320-8a04-f1da3f517d8a)
+  ![Admin Dashboard](https://github.com/user-attachments/assets/8b7c9b2f-d773-4320-8a04-f1da3f517d8a)
 
 - **Order Management:**
 
